@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Samrt Brain",
+  "name": "Smart Brain project",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "brainImage.jpg",
+      "sizes": "264x264 128x128 64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
